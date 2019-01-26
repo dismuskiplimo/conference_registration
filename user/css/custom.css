@@ -1,0 +1,93 @@
+body{
+	margin-top: 80px;
+}
+
+.tiny{
+	font-size: 0.8em;
+}
+
+.mh-70{
+	min-height: 70vh;
+}
+
+.my-100{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+
+.my-150{
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+.my-200{
+	margin-top: 200px;
+	margin-bottom: 200px;
+}
+
+
+.hidden{
+	display: none;
+}
+
+.terms{
+	height: 200px;
+	overflow-y: scroll;
+}
+
+.border{
+	border-top: 1px solid #00aeaa;
+	border-left: 1px solid #00aeaa;
+	border-right: 1px solid #00aeaa;
+	border-bottom: 1px solid #00aeaa;
+}
+
+.border-left{
+	border-top: 1px solid #00aeaa;
+	border-left: 1px solid #00aeaa;
+	border-bottom: 1px solid #00aeaa;
+}
+
+.border-center{
+	border-top: 1px solid #00aeaa;
+	border-bottom: 1px solid #00aeaa;
+}
+
+.border-right{
+	border-top: 1px solid #00aeaa;
+	border-right: 1px solid #00aeaa;
+	border-bottom: 1px solid #00aeaa;
+}
+
+.steps{
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	width: 25%;
+
+	background-color: #dff3f0;
+
+	float: left;
+
+	text-align: center;
+
+	color: #00aeaa;
+}
+
+.steps.active{
+	background-color: #00aeaa;
+	color: #fff;
+}
+
+.text-teal{
+	color: #00aeaa;
+}
+
+
+.footer{
+	background-color: #2c3e50;
+	color: #fff;
+	padding-top: 50px;
+	padding-bottom: 50px; 
+}
